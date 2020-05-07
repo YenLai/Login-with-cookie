@@ -27,6 +27,7 @@
       email: 'nick@shield.com',
       password: 'password'
     }
+}
 ```
 
 ### Screen Photo
