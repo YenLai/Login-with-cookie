@@ -31,8 +31,8 @@
 
 ### Screen Photo
 
-![image](/image/登入畫面.png)
-![image](/image/登入成功.png)
+![image](https://github.com/YenLai/Login-Interface/blob/master/image/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.PNG)
+![image](https://github.com/YenLai/Login-Interface/blob/master/image/%E7%99%BB%E5%85%A5%E6%88%90%E5%8A%9F.PNG)
 
 ### 環境
 - node : 6.4.1
