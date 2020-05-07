@@ -2,7 +2,7 @@
 
 ##### 可用使用者
 ```
-{
+    {
       firstName: 'Tony',
       email: 'tony@stark.com',
       password: 'iamironman'
@@ -27,7 +27,6 @@
       email: 'nick@shield.com',
       password: 'password'
     }
-}
 ```
 
 ### Screen Photo
