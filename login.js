@@ -30,7 +30,7 @@ function Login(user) {
   //crop the info. of the user
   const member = users.filter(member => member.email === user.email)
 
-  //if what we crop is an empty array, return null
+  //if member is an empty array, return 0
   if (member.length !== 0) {
     if (user.password === member[0].password)
       return member[0].firstName
@@ -41,6 +41,5 @@ function Login(user) {
   else {
     return false
   }
-
 }
 module.exports = Login

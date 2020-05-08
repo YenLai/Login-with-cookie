@@ -1,4 +1,5 @@
 ### 登入程式介面
+使用session機制存放cookie，實作登入功能。
 
 ##### 可用使用者
 ```
@@ -38,5 +39,6 @@
 - node : 6.4.1
 - express : 4.17.1
 - express-handlebars : 4.0.4
+- express-session : 1.17.1
 - body-parser : 1.19.0
 
